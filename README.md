@@ -30,8 +30,8 @@ You will need Virtools Dev whose **version number is less or equal than 3.5 (3.5
 
 The release is still not perfect, for these reasons:
 
-* Some functions of 2D Sprites are broken because their inner data types are not recognized by newer version of Virtools;
-* As a result, some visual elements in *Ballance* will be uglier if you replace the files by the deobfuscated ones;
+* ~~Some functions of 2D Sprites are broken because their inner data types are not recognized by newer version of Virtools;~~
+* ~~As a result, some visual elements in *Ballance* will be uglier if you replace the files by the deobfuscated ones;~~
 * Some links in the graph are in a mess and you need to be patient to straighten them out.
 
 
@@ -67,6 +67,6 @@ Virtools 基于控制流图（Control Flow Graph）编程，可以使用编辑�
 
 目前这个版本仍然有一些问题：
 
-* 由于内部数据无法被高版本的 Virtools Dev 所解析，部分 2D Sprites 损坏了
-* 基于上面的这个问题，如果用反混淆版本直接替换原始文件，游戏内的一些界面元素会变的很奇怪
+* ~~由于内部数据无法被高版本的 Virtools Dev 所解析，部分 2D Sprites 损坏了~~
+* ~~基于上面的这个问题，如果用反混淆版本直接替换原始文件，游戏内的一些界面元素会变的很奇怪~~
 * 一些线连的很乱，需要耐心的进行调整和整理
